@@ -1,0 +1,6 @@
+[submodule "hdjn.blog/hdjn.blog"]
+	path = hdjn.blog/hdjn.blog
+	url = git@github.com:HiD3f/hdjn.blog.git
+[submodule "hdjn.blog/public"]
+	path = hdjn.blog/public
+	url = git@github.com:HiD3f/hdjn.blog.git
